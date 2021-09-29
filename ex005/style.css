@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16pt;
+    text-align: center;
+    color: #ED145B;
+    background-color: black;
+
+}
+
+button {
+    font-size: 18pt;
+    color: black;
+    padding: 15px;
+}

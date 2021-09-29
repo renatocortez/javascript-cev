@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 16pt;
+    text-align: center;
+    color: gold;
+    background-image: linear-gradient(to left, orange, red, yellow);
+    
+}
+
+button {
+    font-size: 16pt;
+    padding: 12px;
+}
+
