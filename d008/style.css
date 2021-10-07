@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.5em;
+    background-color: rgb(201, 197, 197);
+    text-align: center;
+}
+
+button {
+    padding: 20px;
+    background-color: black;
+    font-size: 1.2em;
+    color: chartreuse;
+}
+
