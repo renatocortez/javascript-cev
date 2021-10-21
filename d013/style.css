@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1em;
+    text-align: center;
+    background-color: rgba(238, 130, 238, 0.274);
+}
+
+button {
+    padding: 30px;
+    
+}
