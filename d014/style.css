@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1em;
+    text-align: left;
+    background-color: aliceblue;
+}
+
+button {
+    padding: 40px;
+    color: black;
+}
+
