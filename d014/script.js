@@ -11,7 +11,7 @@ function info() {
     let min = agora.getMinutes();
     let seg = agora.getSeconds();
     saida.innerHTML = `<p>Dia: <mark>${dia}</mark></p>`;
-    saida.innerHTML += `<p>Mês: <mark>${meses[mes]}</mark></p>`;
+    saida.innerHTML += `<p>Mês: <mark>${meses[mes - 1]}</mark></p>`;
     saida.innerHTML += `<p>Ano: <mark>${ano}</mark></p>`;
     saida.innerHTML += `<p>Dia da semana: <mark>${semana[sem]}</mark></p>`;
     saida.innerHTML += `<p>Hora: <mark>${hora}</mark></p>`;
