@@ -1,2 +1,2 @@
 # javascript-cev
- Curso de JavaScript -  Prof.Guanabara
+ JavaScript Course - Professor Guanabara
